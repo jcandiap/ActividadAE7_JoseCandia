@@ -21,3 +21,8 @@ conceptos de branch, merge, pull, push, pull request, etc.
 
 - Barra de navegación con enlaces a Home, About y Contact -> branch "features/navbar".
 - Pie de página con derechos de autor -> branch "features/footer".
+
+
+### Autor
+
+Jose Candia
